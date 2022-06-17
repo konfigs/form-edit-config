@@ -20,7 +20,7 @@ In src/app.js you need to add api-key, node-id and application-id
 
 ## widget script
 
-in the htmil body add the following scripts
+in the html body add the following scripts
 
 ```
 
@@ -38,7 +38,7 @@ in the htmil body add the following scripts
 
 ### First add the useEffect
 
-To initate the widget call window.activateFormEditWidget(); inside your component
+To initiate  the widget call window.activateFormEditWidget(); inside your component
 
 ```
 function WidgetComponent() { useEffect(() => { window.activateFormEditWidget(); }, []);
