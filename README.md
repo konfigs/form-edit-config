@@ -57,7 +57,6 @@ To show all the collection in one application remove the node-id from the dev
 <div
   id="form-edit-config"
   api-key="YOUR-APIKEY"
-  node-id="YOUR-NODE-ID"
   application-id="YOUR-APPLICATION-ID"
 ></div>
 
